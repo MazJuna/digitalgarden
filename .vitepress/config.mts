@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Digital Garden",
   description: "Step 2 Notes",
+  base: "/digitalgarden/"
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
