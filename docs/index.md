@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: My Digital Garden
+  text: Misc Notes for Step 2
+  tagline: Pulled from WCC, UW and LLMs
   actions:
     - theme: brand
       text: Get Started
