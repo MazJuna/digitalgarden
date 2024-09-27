@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Heart Failure
-      link: /Heart Failure
+      link: /example
     - theme: brand
       text: View Notes
       link: /Asthma
