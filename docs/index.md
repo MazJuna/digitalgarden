@@ -7,11 +7,11 @@ hero:
   tagline: Pulled from WCC, UW and LLMs
   actions:
     - theme: brand
-      text: Get Started
-      link: /example
+      text: Heart Failure
+      link: /Heart Failure
     - theme: brand
       text: View Notes
-      link: /Cardio
+      link: /Asthma
     - theme: brand
       text: View Edits
       link: /edits
