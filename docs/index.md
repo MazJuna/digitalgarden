@@ -12,4 +12,7 @@ hero:
     - theme: brand
       text: View Notes
       link: /Cardio
+    - theme: brand
+      text: View Edits
+      link: /edits
 ---
