@@ -31,5 +31,8 @@ export default defineConfig({
         ],
       },
     ],
+    search: {
+      provider: 'local', // Enable fuzzy full-text search
+    },
   },
 });
